@@ -46,7 +46,7 @@
     "bchaddrjs-slp": "^0.2.5",
     "bigi": "^1.4.2",
     "bignumber.js": "^9.0.0",
-    "bip-schnorr": "^0.3.0",
+    "bip-schnorr": "^0.6.2",
     "bip38": "^2.0.2",
     "bip39": "^3.0.2",
     "bip66": "^1.1.5",
