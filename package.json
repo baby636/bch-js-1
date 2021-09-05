@@ -41,7 +41,7 @@
     "@psf/coininfo": "^4.0.0",
     "@uppy/core": "^1.10.4",
     "@uppy/tus": "^1.5.12",
-    "axios": "^0.21.1",
+    "axios": "^0.21.3",
     "bc-bip68": "^1.0.5",
     "bchaddrjs-slp": "^0.2.5",
     "bigi": "^1.4.2",
