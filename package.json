@@ -80,7 +80,7 @@
     "prettier": "^1.18.2",
     "semantic-release": "^17.3.9",
     "sinon": "^7.3.2",
-    "standard": "^16.0.3"
+    "standard": "^16.0.4"
   },
   "apidoc": {
     "title": "bch-js",
