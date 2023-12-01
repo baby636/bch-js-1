@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "@psf/bip21": "^2.0.1",
-    "@psf/bip32-utils": "^1.0.0",
+    "@psf/bip32-utils": "^1.0.3",
     "@psf/bitcoincash-ops": "^2.0.0",
     "@psf/bitcoincashjs-lib": "^4.0.2",
     "@psf/coininfo": "^4.0.0",
@@ -62,11 +62,11 @@
     "wif": "^2.0.6"
   },
   "devDependencies": {
-    "apidoc": "^0.17.7",
+    "apidoc": "^0.50.0",
     "assert": "^2.0.0",
     "chai": "^4.1.2",
     "coveralls": "^3.0.2",
-    "eslint": "5.16.0",
+    "eslint": "6.0.0",
     "eslint-config-prettier": "^6.0.0",
     "eslint-config-standard": "^14.1.0",
     "eslint-plugin-node": "^9.1.0",
@@ -76,9 +76,9 @@
     "lodash.clonedeep": "^4.5.0",
     "mocha": "^6.1.4",
     "node-mocks-http": "^1.7.0",
-    "nyc": "^14.1.0",
+    "nyc": "^15.0.0",
     "prettier": "^1.18.2",
-    "semantic-release": "^17.3.9",
+    "semantic-release": "^21.0.0",
     "sinon": "^7.3.2",
     "standard": "^16.0.3"
   },
