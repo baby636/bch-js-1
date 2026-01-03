@@ -62,7 +62,7 @@
     "wif": "^2.0.6"
   },
   "devDependencies": {
-    "apidoc": "^0.17.7",
+    "apidoc": "^0.50.0",
     "assert": "^2.0.0",
     "chai": "^4.1.2",
     "coveralls": "^3.0.2",
